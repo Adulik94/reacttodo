@@ -1,0 +1,67 @@
+.goBack{
+    padding: 0rem;
+    border: 0 solid rgb(209, 204, 204);
+    margin: 0 4rem 3rem 1px;
+    font-size: 1.6rem;
+    font-style: unset;
+    
+}
+.data{
+    font-size: 1.6rem;
+}
+.wrapperLists{
+    width: 40rem;
+    padding: 3rem 2rem;
+    background: #E5E5E5;
+    border-radius: 1rem;
+}
+.content{
+    margin-top: 4rem;
+}
+.row{
+    width: 100%;
+    padding: 1rem;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.wrapperEdit span{
+    cursor: pointer;
+    margin-right:2rem;
+    font-size: 1.5rem;
+}
+.edit{
+    color: rgb(0, 217, 255);
+    font-size: 1.5rem;
+
+}
+.save{
+    color: rgb(0, 123, 255);
+    font-size: 1.5rem;
+    margin-right:2rem;
+    cursor: pointer;
+}
+.state {
+    font-size: 1.5rem;
+}
+.cancel{
+    color: rgba(11, 110, 216, 0.364);
+    font-size: 1.5rem;
+    margin-right:2rem;
+    cursor: pointer;
+}
+.delete{
+    color: red;
+}
+.value{
+    font-size: 17px;
+    margin-left: 2rem;
+}
+.under {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background: #FFFFFF;
+}

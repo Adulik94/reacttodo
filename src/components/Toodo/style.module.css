@@ -1,0 +1,12 @@
+.continer{
+    margin: 3rem;
+    padding: 2rem;
+    width: 43.5rem;
+    background-color: rgb(237, 217, 192);
+    border-radius: 3%;
+}
+
+.title{
+    margin-left: 14rem;
+    margin-bottom: 2rem;
+}

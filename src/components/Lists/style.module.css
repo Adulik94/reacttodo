@@ -1,0 +1,20 @@
+.lists{
+    width: 40rem;
+    padding: 3rem 2rem;
+    background: #E5E5E5;
+    border-radius: 1rem;
+}
+.title{
+    transform: translateY(-1rem);
+    font-size: 1.5rem;
+}
+.list{
+    display: block;
+    width: 100%;
+    font-size: 2rem;
+    color: rgba(3, 1, 5, 0.618);
+}
+
+.list:not(:last-child){
+    margin-bottom: .7rem;
+}
